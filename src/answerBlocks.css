@@ -1,0 +1,16 @@
+.answer-blocks{
+    display: flex;
+    justify-content: center;
+}
+.answer-holder{
+    border-top: 5px solid cyan;
+    min-height: 10vh;
+    border-bottom: 5px solid cyan;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+}

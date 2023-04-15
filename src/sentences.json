@@ -1,0 +1,64 @@
+[
+    {
+        "prompt":"Hello my name is Oliver",
+        "setOfWords":[
+            {
+                "id":1,
+                "value":"Oliver"
+            },
+            {
+                "id":2,
+                "value":"Hallo"
+            },
+            {
+                "id":3,
+                "value":"meine"
+            },
+            {
+                "id":4,
+                "value":"Name"
+            },
+            {
+                "id":5,
+                "value":"ist"
+            },
+            {
+                "id":6,
+                "value":"Tschuss"
+            }
+
+        ],
+        "correctOrder": [2,3,4,5,1]
+    },
+    {
+        "prompt":"I am happy to be here",
+        "setOfWords":[
+            {
+                "id":1,
+                "value":"word1"
+            },
+            {
+                "id":2,
+                "value":"Hallo"
+            },
+            {
+                "id":3,
+                "value":"meine"
+            },
+            {
+                "id":4,
+                "value":"Name"
+            },
+            {
+                "id":5,
+                "value":"ist"
+            },
+            {
+                "id":6,
+                "value":"Tschuss"
+            }
+
+        ],
+        "correctOrder": [2,3,4,5,1]
+    }
+]
